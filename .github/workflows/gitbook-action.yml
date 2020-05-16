@@ -18,6 +18,7 @@ jobs:
         token: ${{ secrets.PERSONAL_TOKEN }}
         time_zone: Asia/Shanghai
         source_edit_time: true
+        gitbook_pdf: true
         publish_commit_message: ${{ github.event.head_commit.message }}
 
 
