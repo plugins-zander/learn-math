@@ -30,8 +30,18 @@
  0<|a_n-A|< (\forall)\varepsilon 
  \end{array} \right.$称   $^{\lim}_{n \rightarrow \infty}a_n=A$
 
+$\left | 
+\begin{array}{ll} 
+0 & 0  \\
+0 & 0 \end{array} \right|$
 
-
+$$
+\left\{ 
+\begin{array}{ll} 
+a \\
+b 
+\end{array} \right.
+$$
 
 
 + draw.io中
