@@ -32,6 +32,7 @@
 <url> <loc>https://zlogs.net/learn-math/110/34/10/10020501.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/10020502.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/10050104.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/34/20/100201.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/1003.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/1004.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/1005.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -39,7 +40,7 @@
 <url> <loc>https://zlogs.net/learn-math/110/34/10/10050101.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/10050102.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/10050103.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://zlogs.net/learn-math/110/34/10/10050105.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/34/20/100202.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/1006.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/100601.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/10/100602.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -51,8 +52,6 @@
 <url> <loc>https://zlogs.net/learn-math/110/34/20/100104.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/20/100105.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/20/1002.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://zlogs.net/learn-math/110/34/20/100201.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://zlogs.net/learn-math/110/34/20/100202.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/20/100203.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/20/100204.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/20/100205.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -74,9 +73,21 @@
 <url> <loc>https://zlogs.net/learn-math/110/34/20/200103.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/20/200104.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/34/20/200105.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/34/20/2002.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/34/20/2003.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/44/99/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/44/99/1001.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/44/99/1002.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/44/99/1003.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/34/30/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/27/10/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://zlogs.net/learn-math/110/21/10/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/21/10/1001.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/21/10/1002.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/21/10/1003.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/21/10/1004.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/21/10/1005.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/21/10/1006.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/64/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zlogs.net/learn-math/110/67/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
